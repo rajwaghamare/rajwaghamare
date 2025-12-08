@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+// [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://img.shields.io/badge/%F0%9F%9A%80%20BUILDING%20WITH%20PASSION-00E5FF?style=for-the-badge&logoColor=white" /> </p> <p align="center"> Passionate <strong>Full-Stack Developer</strong> creating scalable, efficient & user-focused digital products. Currently innovating at <strong>Maverickk Minds</strong> — building Cloud-Based, .NET, and Next-Gen Web & Mobile Apps. </p> <p align="center"> <a href="https://linkedin.com/in/raj-waghamare-820b44270"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:rajwaghamare58@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
 🍀 About Me
