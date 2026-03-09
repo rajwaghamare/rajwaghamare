@@ -1,26 +1,79 @@
+<h1 align="center">Hi 👋, I'm Raj Waghamare</h1>
+<h3 align="center">Full-Stack Developer | .NET | React | React Native | SQL</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Passionate+Full-Stack+Developer;Building+Scalable+Web+%26+Mobile+Apps;Exploring+Azure%2C+CI%2FCD%2C+and+.NET+Ecosystem;Creating+User-Focused+Digital+Products" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=rajwaghamare&label=Profile%20Views&color=0e75b6&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=rajwaghamare&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
-<p align="center"> <img src="https://img.shields.io/badge/%F0%9F%9A%80%20BUILDING%20WITH%20PASSION-00E5FF?style=for-the-badge&logoColor=white" /> </p> <p align="center"> Passionate <strong>Full-Stack Developer</strong> creating scalable, efficient & user-focused digital products. Currently innovating at <strong>Maverickk Minds</strong> — building Cloud-Based, .NET, and Next-Gen Web & Mobile Apps. </p> <p align="center"> <a href="https://linkedin.com/in/raj-waghamare-820b44270"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:rajwaghamare58@gmail.com"><img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
-🍀 About Me
+---
 
-💼 Full-Stack Developer @ Maverickk Minds
+## 🍀 About Me
 
-🌱 Exploring Azure • CI/CD • DSA • .NET Ecosystem
+- 💼 Full-Stack Developer at **Maverickk Minds**
+- 🌱 Learning **Azure, CI/CD, DSA, and .NET ecosystem**
+- 🔧 Building **Web Apps, APIs, Mobile Apps, and cloud-ready systems**
+- 💬 Ask me about **.NET, React, React Native, SQL, and API Development**
+- 💡 Passionate about **problem solving and architecture optimization**
+- ⚡ Fun fact: **I break things only to build them better**
 
-🔧 Skilled in building Web Apps, Mobile Apps, APIs, Cloud-ready systems
+---
 
-💬 Ask me about .NET, React, React Native, SQL, API Dev, Mobile Apps
+## 🛠️ Tech Stack
 
-💡 I love solving real-world problems and optimizing architecture
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap" />
+</p>
 
-⚡ Fun Fact: I break things only to build them better!
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs" />
+</p>
 
-🚀 Tech Universe
-<table align="center"> <tr> <td><strong>Frontend</strong></td> <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/> </td> </tr> <tr> <td><strong>Backend</strong></td> <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> </td> </tr> <tr> <td><strong>Mobile</strong></td> <td> <img src="https://reactnative.dev/img/header_logo.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/> </td> </tr> <tr> <td><strong>Databases</strong></td> <td> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/> </td> </tr> <tr> <td><strong>Cloud & DevOps</strong></td> <td> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/> </td> </tr> <tr> <td><strong>Tools</strong></td> <td> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> </td> </tr> </table>
-📊 GitHub Stats
-<p align="center">  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react"/> </p>
-<!-- 🧩 Top Languages
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react"/> </p> -->
-🤝 Connect With Me
-<p align="center"> <a href="mailto:rajwaghamare58@gmail.com"> <img src="https://img.shields.io/badge/Email-rajwaghamare58%40gmail.com-red?style=for-the-badge&logo=gmail"> </a> </p>
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react,androidstudio" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" alt="SQL Server" />
+</p>
+
+### Cloud & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,jenkins,git,github,vscode,visualstudio" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajwaghamare&show_icons=true&theme=react&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajwaghamare&theme=react&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajwaghamare&layout=compact&theme=react&hide_border=true" height="160" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/raj-waghamare-820b44270">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rajwaghamare58@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
