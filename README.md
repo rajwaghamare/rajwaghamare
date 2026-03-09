@@ -71,6 +71,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajwaghamare/rajwaghamare/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
